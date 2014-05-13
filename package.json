@@ -1,0 +1,25 @@
+{
+  "name": "nl2br",
+  "version": "0.0.1",
+  "description": "A NodeJS module for converting newlines to line breaks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emanuelsaringan/nl2br.git"
+  },
+  "keywords": [
+    "nl2br",
+    "newline",
+    "linebreak",
+    "br"
+  ],
+  "author": "Emanuel Saringan <dev@lambdageek.com> (http://www.lambdageek.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emanuelsaringan/nl2br/issues"
+  },
+  "homepage": "https://github.com/emanuelsaringan/nl2br"
+}
