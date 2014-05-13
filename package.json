@@ -1,6 +1,6 @@
 {
   "name": "nl2br",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A NodeJS module for converting newlines to line breaks",
   "main": "index.js",
   "scripts": {
