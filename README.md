@@ -15,9 +15,9 @@ $ npm install nl2br
 ```javascript
 var nl2br  = require('nl2br');
 
-// XHTML Way
-nl2br('Base\nballs');  // returns 'Base<br/>balls'
-
 // Non-XHTML Way
-nl2br('Base\nballs', false);  // returns 'Base<br>balls'
+nl2br('Base\nballs');  // returns 'Base<br>balls'
+
+// XHTML Way
+nl2br('Base\nballs', true);  // returns 'Base<br />balls'
 ```
