@@ -4,7 +4,7 @@
   "description": "A NodeJS module for converting newlines to line breaks",
   "main": "index.js",
   "scripts": {
-    "test": "ava"
+    "test": "xo && ava"
   },
   "repository": {
     "type": "git",
